@@ -22,7 +22,7 @@
 
 ##archivos de texto ##
 *.md
-*.txt
+**.txt
 *.c
 *.exe
 

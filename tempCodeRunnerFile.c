@@ -1,0 +1,2 @@
+
+int cuadrado(int num){

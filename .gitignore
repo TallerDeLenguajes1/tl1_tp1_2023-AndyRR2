@@ -21,9 +21,8 @@
 .ionide
 
 ##archivos de texto ##
-*.md
-**.txt
-*.c
+*.obj
+*.tds
 *.exe
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
